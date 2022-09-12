@@ -1,0 +1,33 @@
+# Path to the directory containing the cleaned data files
+DATA_DIR_PATH: cleaned_data/
+
+
+# Path to the directory where the processed dataset is to be saved
+SAVE_PATH: processed_data/et_data.csv
+
+
+# If USE_SUN_DURATION=True, uses sun duration to compute incoming radiation.
+# Else, uses the measured incoming radiation.
+USE_SUN_DURATION: False
+
+
+# If USE_MIN_MAX_HUMIDITY=True, the actual vapor pressure (ea)
+# is computed using (RHmax, Tmin, RHmin, Tmax)
+# Else, the actual vapor pressure (ea) is computed using
+# (RHmax, Tmin) only
+USE_MIN_MAX_HUMIDITY: False
+
+
+# WS_HEIGHT: Height at which the wind speed was measured.
+WS_HEIGHT: 10
+
+
+# Variables to load from cleaned data dir and include in the merged dataset
+VARIABLES:
+  - maximum_temperature
+  - minimum_temperature
+  - maximum_relative_humidity
+  - minimum_relative_humidity
+  - average_relative_humidity
+  - average_wind_speed
+  - average_solar_radiation

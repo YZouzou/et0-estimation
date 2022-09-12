@@ -1,0 +1,129 @@
+model_name,algorithm,region,input_combo,train_time,n_estimators,min_samples_leaf,max_samples
+RF_aegean_f1,RF,Aegean,1,0.7029592990875244,300,10,0.5
+RF_black_sea_f1,RF,Black Sea,1,0.4598560333251953,300,10,0.75
+RF_central_anatolia_f1,RF,Central Anatolia,1,0.3311147689819336,100,10,0.75
+RF_eastern_anatolia_f1,RF,Eastern Anatolia,1,0.6117689609527588,300,10,0.75
+RF_marmara_f1,RF,Marmara,1,0.5257704257965088,300,10,0.75
+RF_mediterranean_f1,RF,Mediterranean,1,0.6593546867370605,300,10,0.5
+RF_southeastern_anatolia_f1,RF,Southeastern Anatolia,1,0.3749120235443115,300,10,0.75
+RF_all_data_f1,RF,all_data,1,0.6428852081298828,100,20,0.5
+RF_aegean_f2,RF,Aegean,2,0.484260082244873,300,20,0.5
+RF_black_sea_f2,RF,Black Sea,2,0.1458728313446045,100,10,0.5
+RF_central_anatolia_f2,RF,Central Anatolia,2,0.2030792236328125,100,20,0.75
+RF_eastern_anatolia_f2,RF,Eastern Anatolia,2,0.5155038833618164,300,10,0.5
+RF_marmara_f2,RF,Marmara,2,0.7029595375061035,300,20,0.75
+RF_mediterranean_f2,RF,Mediterranean,2,0.4061534404754638,300,20,0.5
+RF_southeastern_anatolia_f2,RF,Southeastern Anatolia,2,0.0781066417694091,50,10,0.5
+RF_all_data_f2,RF,all_data,2,0.2655632495880127,50,50,0.5
+RF_aegean_f3,RF,Aegean,3,0.7786633968353271,300,10,0.75
+RF_black_sea_f3,RF,Black Sea,3,0.1805663108825683,100,10,0.75
+RF_central_anatolia_f3,RF,Central Anatolia,3,0.2812488079071045,100,10,0.75
+RF_eastern_anatolia_f3,RF,Eastern Anatolia,3,0.6460962295532227,300,10,0.75
+RF_marmara_f3,RF,Marmara,3,0.6652200222015381,300,10,0.75
+RF_mediterranean_f3,RF,Mediterranean,3,0.5017604827880859,300,10,0.75
+RF_southeastern_anatolia_f3,RF,Southeastern Anatolia,3,0.4393789768218994,300,10,0.75
+RF_all_data_f3,RF,all_data,3,0.9631733894348145,100,10,0.75
+RF_aegean_f4,RF,Aegean,4,0.0781059265136718,50,20,0.5
+RF_black_sea_f4,RF,Black Sea,4,0.0781073570251464,50,20,0.5
+RF_central_anatolia_f4,RF,Central Anatolia,4,0.1863446235656738,100,20,0.5
+RF_eastern_anatolia_f4,RF,Eastern Anatolia,4,0.682762622833252,300,50,0.5
+RF_marmara_f4,RF,Marmara,4,0.4217755794525146,300,20,0.5
+RF_mediterranean_f4,RF,Mediterranean,4,0.0713658332824707,50,20,0.5
+RF_southeastern_anatolia_f4,RF,Southeastern Anatolia,4,0.1524097919464111,50,20,0.5
+RF_all_data_f4,RF,all_data,4,1.2996602058410645,300,100,0.5
+RF_aegean_f5,RF,Aegean,5,0.4373977184295654,300,50,0.5
+RF_black_sea_f5,RF,Black Sea,5,0.0781073570251464,50,10,0.5
+RF_central_anatolia_f5,RF,Central Anatolia,5,0.5155014991760254,300,50,0.5
+RF_eastern_anatolia_f5,RF,Eastern Anatolia,5,0.1456465721130371,100,50,0.5
+RF_marmara_f5,RF,Marmara,5,0.6092321872711182,300,20,0.5
+RF_mediterranean_f5,RF,Mediterranean,5,0.4842617511749267,300,20,0.5
+RF_southeastern_anatolia_f5,RF,Southeastern Anatolia,5,0.1486117839813232,100,20,0.5
+RF_all_data_f5,RF,all_data,5,1.1739346981048584,300,100,0.5
+RF_aegean_f6,RF,Aegean,6,1.175389051437378,300,20,0.5
+RF_black_sea_f6,RF,Black Sea,6,0.1055517196655273,50,20,0.75
+RF_central_anatolia_f6,RF,Central Anatolia,6,0.9351012706756592,300,50,0.75
+RF_eastern_anatolia_f6,RF,Eastern Anatolia,6,0.2116069793701172,100,50,0.5
+RF_marmara_f6,RF,Marmara,6,0.0979311466217041,50,20,0.5
+RF_mediterranean_f6,RF,Mediterranean,6,0.2820193767547607,100,20,0.5
+RF_southeastern_anatolia_f6,RF,Southeastern Anatolia,6,0.5107071399688721,300,20,0.5
+RF_all_data_f6,RF,all_data,6,0.9011259078979492,100,100,0.5
+RF_aegean_f7,RF,Aegean,7,0.203240156173706,100,10,0.5
+RF_black_sea_f7,RF,Black Sea,7,0.5311243534088135,300,10,0.5
+RF_central_anatolia_f7,RF,Central Anatolia,7,0.203078031539917,100,20,0.5
+RF_eastern_anatolia_f7,RF,Eastern Anatolia,7,0.1012656688690185,50,20,0.5
+RF_marmara_f7,RF,Marmara,7,0.437394380569458,300,20,0.5
+RF_mediterranean_f7,RF,Mediterranean,7,0.5158560276031494,300,10,0.5
+RF_southeastern_anatolia_f7,RF,Southeastern Anatolia,7,0.0781066417694091,50,10,0.5
+RF_all_data_f7,RF,all_data,7,0.702960729598999,100,50,0.75
+RF_aegean_f8,RF,Aegean,8,0.1405138969421386,100,50,0.75
+RF_black_sea_f8,RF,Black Sea,8,0.1718823909759521,100,10,0.5
+RF_central_anatolia_f8,RF,Central Anatolia,8,0.4373986721038818,300,20,0.5
+RF_eastern_anatolia_f8,RF,Eastern Anatolia,8,0.5936112403869629,300,20,0.5
+RF_marmara_f8,RF,Marmara,8,0.135669469833374,100,20,0.5
+RF_mediterranean_f8,RF,Mediterranean,8,0.3592910766601562,300,20,0.5
+RF_southeastern_anatolia_f8,RF,Southeastern Anatolia,8,0.3436706066131592,300,10,0.5
+RF_all_data_f8,RF,all_data,8,0.952904462814331,300,50,0.5
+RF_aegean_f9,RF,Aegean,9,0.5623695850372314,300,10,0.5
+RF_black_sea_f9,RF,Black Sea,9,0.1408777236938476,100,10,0.5
+RF_central_anatolia_f9,RF,Central Anatolia,9,0.6873388290405273,300,10,0.5
+RF_eastern_anatolia_f9,RF,Eastern Anatolia,9,0.5312097072601318,300,10,0.5
+RF_marmara_f9,RF,Marmara,9,0.4686400890350342,300,10,0.5
+RF_mediterranean_f9,RF,Mediterranean,9,0.4530198574066162,300,10,0.5
+RF_southeastern_anatolia_f9,RF,Southeastern Anatolia,9,0.343670129776001,300,10,0.5
+RF_all_data_f9,RF,all_data,9,0.6960783004760742,100,20,0.5
+RF_aegean_f10,RF,Aegean,10,0.1156866550445556,50,20,0.5
+RF_black_sea_f10,RF,Black Sea,10,0.4428164958953857,300,20,0.5
+RF_central_anatolia_f10,RF,Central Anatolia,10,0.1700596809387207,50,50,0.75
+RF_eastern_anatolia_f10,RF,Eastern Anatolia,10,0.497302770614624,300,20,0.5
+RF_marmara_f10,RF,Marmara,10,0.0781085491180419,50,20,0.5
+RF_mediterranean_f10,RF,Mediterranean,10,0.4544980525970459,300,20,0.5
+RF_southeastern_anatolia_f10,RF,Southeastern Anatolia,10,0.0743083953857421,50,10,0.5
+RF_all_data_f10,RF,all_data,10,0.2655608654022217,50,100,0.5
+RF_aegean_f11,RF,Aegean,11,0.7029604911804199,300,20,0.5
+RF_black_sea_f11,RF,Black Sea,11,0.4217777252197265,300,20,0.5
+RF_central_anatolia_f11,RF,Central Anatolia,11,0.8230671882629395,300,20,0.5
+RF_eastern_anatolia_f11,RF,Eastern Anatolia,11,0.5316226482391357,300,20,0.5
+RF_marmara_f11,RF,Marmara,11,0.4543578624725342,300,20,0.5
+RF_mediterranean_f11,RF,Mediterranean,11,0.6290719509124756,300,20,0.5
+RF_southeastern_anatolia_f11,RF,Southeastern Anatolia,11,0.4373979568481445,300,10,0.5
+RF_all_data_f11,RF,all_data,11,1.9873456954956048,300,100,0.5
+RF_aegean_f12,RF,Aegean,12,0.5936110019683838,300,10,0.5
+RF_black_sea_f12,RF,Black Sea,12,0.4842610359191894,300,10,0.5
+RF_central_anatolia_f12,RF,Central Anatolia,12,0.2655649185180664,100,20,0.75
+RF_eastern_anatolia_f12,RF,Eastern Anatolia,12,0.6404738426208496,300,20,0.5
+RF_marmara_f12,RF,Marmara,12,0.3359115123748779,100,20,0.75
+RF_mediterranean_f12,RF,Mediterranean,12,0.4680614471435547,300,10,0.5
+RF_southeastern_anatolia_f12,RF,Southeastern Anatolia,12,0.1306984424591064,100,10,0.5
+RF_all_data_f12,RF,all_data,12,2.5735833644866943,300,20,0.5
+RF_aegean_f13,RF,Aegean,13,0.6404740810394287,300,20,0.5
+RF_black_sea_f13,RF,Black Sea,13,0.3905315399169922,300,10,0.5
+RF_central_anatolia_f13,RF,Central Anatolia,13,0.7217152118682861,300,10,0.5
+RF_eastern_anatolia_f13,RF,Eastern Anatolia,13,0.5441105365753174,300,20,0.75
+RF_marmara_f13,RF,Marmara,13,0.5586762428283691,300,20,0.5
+RF_mediterranean_f13,RF,Mediterranean,13,0.4523499011993408,300,10,0.5
+RF_southeastern_anatolia_f13,RF,Southeastern Anatolia,13,0.1658711433410644,100,10,0.5
+RF_all_data_f13,RF,all_data,13,1.5473051071166992,300,50,0.5
+RF_aegean_f14,RF,Aegean,14,0.9347739219665528,300,10,0.75
+RF_black_sea_f14,RF,Black Sea,14,0.0937502384185791,50,10,0.75
+RF_central_anatolia_f14,RF,Central Anatolia,14,0.9903512001037598,300,10,0.75
+RF_eastern_anatolia_f14,RF,Eastern Anatolia,14,0.8552844524383545,300,10,0.75
+RF_marmara_f14,RF,Marmara,14,0.2812466621398926,100,10,0.75
+RF_mediterranean_f14,RF,Mediterranean,14,0.555182695388794,300,10,0.75
+RF_southeastern_anatolia_f14,RF,Southeastern Anatolia,14,0.1505694389343261,100,10,0.75
+RF_all_data_f14,RF,all_data,14,1.4648549556732178,100,10,0.75
+RF_aegean_f15,RF,Aegean,15,0.923729658126831,300,10,0.75
+RF_black_sea_f15,RF,Black Sea,15,0.199251651763916,100,10,0.75
+RF_central_anatolia_f15,RF,Central Anatolia,15,1.3076913356781006,300,10,0.75
+RF_eastern_anatolia_f15,RF,Eastern Anatolia,15,0.9516799449920654,300,10,0.75
+RF_marmara_f15,RF,Marmara,15,0.7378759384155273,300,10,0.75
+RF_mediterranean_f15,RF,Mediterranean,15,0.6099963188171387,300,10,0.75
+RF_southeastern_anatolia_f15,RF,Southeastern Anatolia,15,0.800004243850708,300,10,0.75
+RF_all_data_f15,RF,all_data,15,4.852313280105591,300,10,0.75
+RF_aegean_f16,RF,Aegean,16,0.8471415042877197,300,10,0.75
+RF_black_sea_f16,RF,Black Sea,16,0.7744648456573486,300,10,0.75
+RF_central_anatolia_f16,RF,Central Anatolia,16,1.402390480041504,300,10,0.75
+RF_eastern_anatolia_f16,RF,Eastern Anatolia,16,0.8482487201690674,300,10,0.75
+RF_marmara_f16,RF,Marmara,16,0.1207644939422607,50,10,0.75
+RF_mediterranean_f16,RF,Mediterranean,16,0.5727705955505371,300,10,0.75
+RF_southeastern_anatolia_f16,RF,Southeastern Anatolia,16,0.4577741622924804,300,10,0.75
+RF_all_data_f16,RF,all_data,16,3.858451366424561,300,10,0.75

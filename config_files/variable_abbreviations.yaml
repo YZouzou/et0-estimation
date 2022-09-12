@@ -1,0 +1,14 @@
+# Define the abbreviations of each variable
+VAR_NAMES:
+  maximum_temperature: max_temp
+  minimum_temperature: min_temp
+  average_temperature: avg_temp
+
+  maximum_relative_humidity: max_hum
+  minimum_relative_humidity: min_hum
+  average_relative_humidity: avg_hum
+
+  average_wind_speed: avg_ws
+
+  average_solar_radiation: avg_rad
+  average_sun_duration: sun_duration

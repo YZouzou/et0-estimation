@@ -1,0 +1,75 @@
+# Enter the input combinations to be used in modelling
+
+
+INPUT_COMBOS:
+
+  1:
+    - maximum_temperature
+    - average_wind_speed
+
+  2:
+    - minimum_temperature
+    - average_wind_speed
+
+  3:
+    - maximum_temperature
+    - average_wind_speed
+    - month
+
+  4:
+    - maximum_temperature
+    - maximum_relative_humidity
+
+  5:
+    - maximum_temperature
+    - minimum_relative_humidity
+
+  6:
+    - maximum_temperature
+    - average_relative_humidity
+
+  7:
+    - maximum_temperature
+    - month
+
+  8:
+    - average_wind_speed
+    - maximum_relative_humidity
+
+  9:
+    - average_solar_radiation
+    - average_wind_speed
+
+  10:
+    - average_solar_radiation
+    - maximum_relative_humidity
+
+  11:
+    - average_solar_radiation
+    - average_relative_humidity
+
+  12:
+    - average_solar_radiation
+    - maximum_temperature
+
+  13:
+    - average_solar_radiation
+    - month
+
+  14:
+    - maximum_temperature
+    - average_wind_speed
+    - month
+    - Ra
+
+  15:
+    - maximum_temperature
+    - average_wind_speed
+    - month
+    - average_solar_radiation
+
+  16:
+    - maximum_temperature
+    - average_wind_speed
+    - month
+    - maximum_relative_humidity

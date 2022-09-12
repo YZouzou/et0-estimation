@@ -1,0 +1,129 @@
+model_name,algorithm,region,input_combo,train_time
+Polynomial_aegean_f1,Polynomial,Aegean,1,0.0019946098327636
+Polynomial_black_sea_f1,Polynomial,Black Sea,1,0.0019962787628173
+Polynomial_central_anatolia_f1,Polynomial,Central Anatolia,1,0.0019946098327636
+Polynomial_eastern_anatolia_f1,Polynomial,Eastern Anatolia,1,0.0019946098327636
+Polynomial_marmara_f1,Polynomial,Marmara,1,0.0009975433349609
+Polynomial_mediterranean_f1,Polynomial,Mediterranean,1,0.0009968280792236
+Polynomial_southeastern_anatolia_f1,Polynomial,Southeastern Anatolia,1,0.0019943714141845
+Polynomial_all_data_f1,Polynomial,all_data,1,0.0059850215911865
+Polynomial_aegean_f2,Polynomial,Aegean,2,0.0019953250885009
+Polynomial_black_sea_f2,Polynomial,Black Sea,2,0.0019922256469726
+Polynomial_central_anatolia_f2,Polynomial,Central Anatolia,2,0.00199556350708
+Polynomial_eastern_anatolia_f2,Polynomial,Eastern Anatolia,2,0.0009975433349609
+Polynomial_marmara_f2,Polynomial,Marmara,2,0.0009975433349609
+Polynomial_mediterranean_f2,Polynomial,Mediterranean,2,0.0019948482513427
+Polynomial_southeastern_anatolia_f2,Polynomial,Southeastern Anatolia,2,0.0009975433349609
+Polynomial_all_data_f2,Polynomial,all_data,2,0.0059883594512939
+Polynomial_aegean_f3,Polynomial,Aegean,3,0.0039899349212646
+Polynomial_black_sea_f3,Polynomial,Black Sea,3,0.0019886493682861
+Polynomial_central_anatolia_f3,Polynomial,Central Anatolia,3,0.0029916763305664
+Polynomial_eastern_anatolia_f3,Polynomial,Eastern Anatolia,3,0.0029923915863037
+Polynomial_marmara_f3,Polynomial,Marmara,3,0.0049719810485839
+Polynomial_mediterranean_f3,Polynomial,Mediterranean,3,0.0019953250885009
+Polynomial_southeastern_anatolia_f3,Polynomial,Southeastern Anatolia,3,0.0019948482513427
+Polynomial_all_data_f3,Polynomial,all_data,3,0.0109691619873046
+Polynomial_aegean_f4,Polynomial,Aegean,4,0.0019938945770263
+Polynomial_black_sea_f4,Polynomial,Black Sea,4,0.0009963512420654
+Polynomial_central_anatolia_f4,Polynomial,Central Anatolia,4,0.00099778175354
+Polynomial_eastern_anatolia_f4,Polynomial,Eastern Anatolia,4,0.0029919147491455
+Polynomial_marmara_f4,Polynomial,Marmara,4,0.0009980201721191
+Polynomial_mediterranean_f4,Polynomial,Mediterranean,4,0.0019950866699218
+Polynomial_southeastern_anatolia_f4,Polynomial,Southeastern Anatolia,4,0.0029904842376708
+Polynomial_all_data_f4,Polynomial,all_data,4,0.014958381652832
+Polynomial_aegean_f5,Polynomial,Aegean,5,0.0029926300048828
+Polynomial_black_sea_f5,Polynomial,Black Sea,5,0.0009946823120117
+Polynomial_central_anatolia_f5,Polynomial,Central Anatolia,5,0.0019941329956054
+Polynomial_eastern_anatolia_f5,Polynomial,Eastern Anatolia,5,0.0019943714141845
+Polynomial_marmara_f5,Polynomial,Marmara,5,0.0009958744049072
+Polynomial_mediterranean_f5,Polynomial,Mediterranean,5,0.00099778175354
+Polynomial_southeastern_anatolia_f5,Polynomial,Southeastern Anatolia,5,0.00099778175354
+Polynomial_all_data_f5,Polynomial,all_data,5,0.0059819221496582
+Polynomial_aegean_f6,Polynomial,Aegean,6,0.0029921531677246
+Polynomial_black_sea_f6,Polynomial,Black Sea,6,0.0029921531677246
+Polynomial_central_anatolia_f6,Polynomial,Central Anatolia,6,0.002993106842041
+Polynomial_eastern_anatolia_f6,Polynomial,Eastern Anatolia,6,0.0029923915863037
+Polynomial_marmara_f6,Polynomial,Marmara,6,0.0019953250885009
+Polynomial_mediterranean_f6,Polynomial,Mediterranean,6,0.0019888877868652
+Polynomial_southeastern_anatolia_f6,Polynomial,Southeastern Anatolia,6,0.0019946098327636
+Polynomial_all_data_f6,Polynomial,all_data,6,0.0059921741485595
+Polynomial_aegean_f7,Polynomial,Aegean,7,0.0019938945770263
+Polynomial_black_sea_f7,Polynomial,Black Sea,7,0.0019948482513427
+Polynomial_central_anatolia_f7,Polynomial,Central Anatolia,7,0.0029935836791992
+Polynomial_eastern_anatolia_f7,Polynomial,Eastern Anatolia,7,0.0019950866699218
+Polynomial_marmara_f7,Polynomial,Marmara,7,0.0019950866699218
+Polynomial_mediterranean_f7,Polynomial,Mediterranean,7,0.0009970664978027
+Polynomial_southeastern_anatolia_f7,Polynomial,Southeastern Anatolia,7,0.0019948482513427
+Polynomial_all_data_f7,Polynomial,all_data,7,0.0049865245819091
+Polynomial_aegean_f8,Polynomial,Aegean,8,0.0009973049163818
+Polynomial_black_sea_f8,Polynomial,Black Sea,8,0.00299072265625
+Polynomial_central_anatolia_f8,Polynomial,Central Anatolia,8,0.0019948482513427
+Polynomial_eastern_anatolia_f8,Polynomial,Eastern Anatolia,8,0.0039906501770019
+Polynomial_marmara_f8,Polynomial,Marmara,8,0.0019934177398681
+Polynomial_mediterranean_f8,Polynomial,Mediterranean,8,0.0019943714141845
+Polynomial_southeastern_anatolia_f8,Polynomial,Southeastern Anatolia,8,0.0019972324371337
+Polynomial_all_data_f8,Polynomial,all_data,8,0.0059845447540283
+Polynomial_aegean_f9,Polynomial,Aegean,9,0.0039873123168945
+Polynomial_black_sea_f9,Polynomial,Black Sea,9,0.0019946098327636
+Polynomial_central_anatolia_f9,Polynomial,Central Anatolia,9,0.0029904842376708
+Polynomial_eastern_anatolia_f9,Polynomial,Eastern Anatolia,9,0.0030219554901123
+Polynomial_marmara_f9,Polynomial,Marmara,9,0.0069787502288818
+Polynomial_mediterranean_f9,Polynomial,Mediterranean,9,0.0019958019256591
+Polynomial_southeastern_anatolia_f9,Polynomial,Southeastern Anatolia,9,0.0020647048950195
+Polynomial_all_data_f9,Polynomial,all_data,9,0.0119678974151611
+Polynomial_aegean_f10,Polynomial,Aegean,10,0.0039896965026855
+Polynomial_black_sea_f10,Polynomial,Black Sea,10,0.0029921531677246
+Polynomial_central_anatolia_f10,Polynomial,Central Anatolia,10,0.0029923915863037
+Polynomial_eastern_anatolia_f10,Polynomial,Eastern Anatolia,10,0.0019941329956054
+Polynomial_marmara_f10,Polynomial,Marmara,10,0.0029921531677246
+Polynomial_mediterranean_f10,Polynomial,Mediterranean,10,0.0039920806884765
+Polynomial_southeastern_anatolia_f10,Polynomial,Southeastern Anatolia,10,0.0019950866699218
+Polynomial_all_data_f10,Polynomial,all_data,10,0.010972261428833
+Polynomial_aegean_f11,Polynomial,Aegean,11,0.0019943714141845
+Polynomial_black_sea_f11,Polynomial,Black Sea,11,0.0019943714141845
+Polynomial_central_anatolia_f11,Polynomial,Central Anatolia,11,0.0039796829223632
+Polynomial_eastern_anatolia_f11,Polynomial,Eastern Anatolia,11,0.0019943714141845
+Polynomial_marmara_f11,Polynomial,Marmara,11,0.0019946098327636
+Polynomial_mediterranean_f11,Polynomial,Mediterranean,11,0.0009980201721191
+Polynomial_southeastern_anatolia_f11,Polynomial,Southeastern Anatolia,11,0.0009973049163818
+Polynomial_all_data_f11,Polynomial,all_data,11,0.0119671821594238
+Polynomial_aegean_f12,Polynomial,Aegean,12,0.0029840469360351
+Polynomial_black_sea_f12,Polynomial,Black Sea,12,0.0019948482513427
+Polynomial_central_anatolia_f12,Polynomial,Central Anatolia,12,0.0039894580841064
+Polynomial_eastern_anatolia_f12,Polynomial,Eastern Anatolia,12,0.0049972534179687
+Polynomial_marmara_f12,Polynomial,Marmara,12,0.0029911994934082
+Polynomial_mediterranean_f12,Polynomial,Mediterranean,12,0.0030314922332763
+Polynomial_southeastern_anatolia_f12,Polynomial,Southeastern Anatolia,12,0.0039820671081542
+Polynomial_all_data_f12,Polynomial,all_data,12,0.0179507732391357
+Polynomial_aegean_f13,Polynomial,Aegean,13,0.0039868354797363
+Polynomial_black_sea_f13,Polynomial,Black Sea,13,0.0019943714141845
+Polynomial_central_anatolia_f13,Polynomial,Central Anatolia,13,0.0019903182983398
+Polynomial_eastern_anatolia_f13,Polynomial,Eastern Anatolia,13,0.0019948482513427
+Polynomial_marmara_f13,Polynomial,Marmara,13,0.00199556350708
+Polynomial_mediterranean_f13,Polynomial,Mediterranean,13,0.0029919147491455
+Polynomial_southeastern_anatolia_f13,Polynomial,Southeastern Anatolia,13,0.0029916763305664
+Polynomial_all_data_f13,Polynomial,all_data,13,0.0099794864654541
+Polynomial_aegean_f14,Polynomial,Aegean,14,0.0039913654327392
+Polynomial_black_sea_f14,Polynomial,Black Sea,14,0.0039887428283691
+Polynomial_central_anatolia_f14,Polynomial,Central Anatolia,14,0.0039904117584228
+Polynomial_eastern_anatolia_f14,Polynomial,Eastern Anatolia,14,0.0039901733398437
+Polynomial_marmara_f14,Polynomial,Marmara,14,0.0019948482513427
+Polynomial_mediterranean_f14,Polynomial,Mediterranean,14,0.001993179321289
+Polynomial_southeastern_anatolia_f14,Polynomial,Southeastern Anatolia,14,0.0179531574249267
+Polynomial_all_data_f14,Polynomial,all_data,14,0.034912109375
+Polynomial_aegean_f15,Polynomial,Aegean,15,0.0049879550933837
+Polynomial_black_sea_f15,Polynomial,Black Sea,15,0.0039887428283691
+Polynomial_central_anatolia_f15,Polynomial,Central Anatolia,15,0.0069847106933593
+Polynomial_eastern_anatolia_f15,Polynomial,Eastern Anatolia,15,0.0139627456665039
+Polynomial_marmara_f15,Polynomial,Marmara,15,0.0079789161682128
+Polynomial_mediterranean_f15,Polynomial,Mediterranean,15,0.0069847106933593
+Polynomial_southeastern_anatolia_f15,Polynomial,Southeastern Anatolia,15,0.0039935111999511
+Polynomial_all_data_f15,Polynomial,all_data,15,0.0249335765838623
+Polynomial_aegean_f16,Polynomial,Aegean,16,0.0039889812469482
+Polynomial_black_sea_f16,Polynomial,Black Sea,16,0.0049853324890136
+Polynomial_central_anatolia_f16,Polynomial,Central Anatolia,16,0.0039918422698974
+Polynomial_eastern_anatolia_f16,Polynomial,Eastern Anatolia,16,0.00398850440979
+Polynomial_marmara_f16,Polynomial,Marmara,16,0.0039906501770019
+Polynomial_mediterranean_f16,Polynomial,Mediterranean,16,0.0059845447540283
+Polynomial_southeastern_anatolia_f16,Polynomial,Southeastern Anatolia,16,0.0039904117584228
+Polynomial_all_data_f16,Polynomial,all_data,16,0.0269269943237304

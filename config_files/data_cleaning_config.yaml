@@ -1,0 +1,32 @@
+# Enter the read dir, i.e., directory from which raw data is to be loaded
+# and the write dir, i.e, directory in which the data will be saved
+
+PATHS:
+  read_dir: raw_data
+  write_dir: cleaned_data
+
+
+# Enter the names of the measured variable files in read_path to be cleaned
+# and the measured variable name in each file
+
+VAR_FILES:
+  monthly_max_temperature.txt: maximum_temperature
+  monthly_min_temperature.txt: minimum_temperature
+  monthly_avg_temperature.txt: average_temperature
+
+  monthly_max_relative_humidity.txt: maximum_relative_humidity
+  monthly_min_relative_humidity.txt: minimum_relative_humidity
+  monthly_avg_relative_humidity.txt: average_relative_humidity
+
+  monthly_avg_wind_speed.txt: average_wind_speed
+
+  monthly_avg_solar_radiation.txt: average_solar_radiation
+
+  monthly_avg_sun_duration.txt: average_sun_duration
+
+
+# Enter the station definitions file name (if available)
+# If False, this file will be ignored
+
+ST_DEF_FILE:
+  name: station_definitions.txt
