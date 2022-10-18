@@ -17,12 +17,12 @@ Interactive Tableau dashboards visualizing the input data and modeling results w
 The code is divided into directories, each corresponding to one process in the project as described below. Further description of the directories and their contents can be found in the README files within each directory. The classes and functions used in this study are saved in **ETProject** and loaded from there when applicable.
 
 Directory description (ordered by the worklflow of the study):
-* [config_files](https://github.com/YZouzou/et0-estimation/tree/main/config_files): Contains all the configuration files used in the code.
-* [ETProject](https://github.com/YZouzou/et0-estimation/tree/main/ETProject): A package that includes all functions and classes used in this project.
-* [data_preparation](https://github.com/YZouzou/et0-estimation/tree/main/data_preparation): Includes the code used for cleaning and preparing the raw weather data received from the meteorological services.
-* [EDA](https://github.com/YZouzou/et0-estimation/tree/main/EDA): Contains an exploratory data analysis of the data used in this study.
-* [models](https://github.com/YZouzou/et0-estimation/tree/main/models): Includes the trained models, their parameters, their predictions, and model performance metrics. This directory also includes a notebook exploring model performances extensively.
-* [randomization_test](https://github.com/YZouzou/et0-estimation/tree/main/randomization_test): Includes the code used to conduct the randomization test.
+* [config_files](https://github.com/YZouzou/et0-estimation/tree/main/config_files#configuration-files): Contains all the configuration files used in the code.
+* [ETProject](https://github.com/YZouzou/et0-estimation/tree/main/ETProject#etproject): A package that includes all functions and classes used in this project.
+* [data_preparation](https://github.com/YZouzou/et0-estimation/tree/main/data_preparation#data-preparation): Includes the code used for cleaning and preparing the raw weather data received from the meteorological services.
+* [EDA](https://github.com/YZouzou/et0-estimation/tree/main/EDA#exploratory-data-analysis): Contains an exploratory data analysis of the data used in this study.
+* [models](https://github.com/YZouzou/et0-estimation/tree/main/models#models): Includes the trained models, their parameters, their predictions, and model performance metrics. This directory also includes a notebook exploring model performances extensively.
+* [randomization_test](https://github.com/YZouzou/et0-estimation/tree/main/randomization_test#randomization-test): Includes the code used to conduct the randomization test.
 
 
 ## Requirements
